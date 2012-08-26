@@ -4,6 +4,7 @@
     "description": "Pager for Symfony 2",
     "keywords":    ["symfony", "bundle", "pager"],
     "homepage":    "http://github.com/makerlabs/PagerBundle",
+    "license":     "MIT",
 
     "authors": [
         {
